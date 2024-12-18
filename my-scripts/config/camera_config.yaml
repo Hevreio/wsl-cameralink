@@ -1,0 +1,14 @@
+# camera_config.yaml
+# 用于识别摄像头设备的搜索关键词
+search_keyword: "HP 5MP Camera"
+
+# 设备描述（可选，用于日志显示）
+device_description: "HP Laptop Camera"
+
+# 是否在执行时显示详细日志
+verbose: true
+
+# WSL配置
+wsl:
+  # 指定WSL发行版，留空则使用默认
+  distribution: ""
